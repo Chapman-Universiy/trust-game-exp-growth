@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TestProject1
+</name>
+</assembly>
+<members>
+<member name="P:TestProject1.ScreenManagerTest.TestContext">
+	<summary>
+Gets or sets the test context which provides
+information about and functionality for the current test run.
+</summary>
+</member><member name="T:TestProject1.ScreenManagerTest">
+	<summary>
+This is a test class for ScreenManagerTest and is intended
+to contain all ScreenManagerTest Unit Tests
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,11 @@
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Release\Server.frmMain.resources
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Release\Server.Resources.resources
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Release\Server.exe
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Release\Server.xml
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Release\Server.pdb
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server.exe
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server.pdb
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server.xml

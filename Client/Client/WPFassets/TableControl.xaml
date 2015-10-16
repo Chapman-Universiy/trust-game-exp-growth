@@ -1,0 +1,144 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="GroupInfoUC"
+	x:Name="UserControl"
+	d:DesignWidth="700" d:DesignHeight="732">	
+	
+	<UserControl.Resources>
+		<Style x:Key="WrappedColumnHeaderStyle" TargetType="{x:Type DataGridColumnHeader}">
+			<Setter Property="HorizontalContentAlignment" Value="Center"/>
+			<Setter Property="FontFamily" Value="Segoe UI"/>
+			<Setter Property="FontSize" Value="18"/>			
+			<Setter Property="ContentTemplate">
+		        <Setter.Value>
+		            <DataTemplate>
+		                <TextBlock x:Name="TextBlock" TextWrapping="NoWrap" Text="{Binding}"/>
+		                <DataTemplate.Triggers>
+		                     <DataTrigger Binding="{Binding Path=HorizontalContentAlignment, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type DataGridColumnHeader}}}" Value="Center">
+		                        <Setter TargetName="TextBlock" Property="TextAlignment" Value="Center"/>
+		                    </DataTrigger>
+		                    <DataTrigger Binding="{Binding Path=HorizontalContentAlignment, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type DataGridColumnHeader}}}" Value="Left">
+		                        <Setter TargetName="TextBlock" Property="TextAlignment" Value="Left"/>
+		                    </DataTrigger>
+		                    <DataTrigger Binding="{Binding Path=HorizontalContentAlignment, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type DataGridColumnHeader}}}" Value="Right">
+		                        <Setter TargetName="TextBlock" Property="TextAlignment" Value="Right"/>
+		                    </DataTrigger>
+		                </DataTemplate.Triggers>
+		            </DataTemplate>
+		        </Setter.Value>
+		    </Setter>
+		</Style>
+		
+		<Style TargetType="DataGridCell">
+			<Setter Property="Block.TextAlignment" Value="Center"/>
+			<Setter Property="FontFamily" Value="Segoe UI"/>
+			<Setter Property="FontSize" Value="16"/>
+		</Style>
+				
+		<LinearGradientBrush x:Key="DataGridHeaderBackgroundBrush" StartPoint="0,0" EndPoint="0,1">
+               <GradientStop Color="#fff" Offset="0" />
+               <GradientStop Color="#999" Offset="1" />
+        </LinearGradientBrush>
+		  
+		<LinearGradientBrush x:Key="BrownGradientFixed" MappingMode="Absolute" StartPoint="0,0" EndPoint="0,48">
+			<GradientStop Color="#FF39291F"/>
+			<GradientStop Color="#FF6E6056" Offset="1"/>
+		</LinearGradientBrush>
+		
+		<LinearGradientBrush x:Key="GreyGradientFixed" MappingMode="Absolute" StartPoint="0,0" EndPoint="0,90">
+			<GradientStop Color="#FF252525"/>
+			<GradientStop Color="#FFD0D0D0" Offset="1"/>
+		</LinearGradientBrush>
+		  
+		  <Style TargetType="Label">				
+				<Setter Property="FontSize" Value="20"/>
+				<Setter Property="FontWeight" Value="Regular"/>
+				<Setter Property="BorderBrush" Value="{x:Null}"/>				
+				<Setter Property="Foreground" Value="White"/>
+				<Setter Property="Background" Value="{x:Null}"/>							
+			</Style>
+			
+			<Style x:Key="DataGridNoSize" TargetType="DataGrid">
+				<Setter Property="VerticalAlignment" Value="Top"/>
+				<Setter Property="Margin" Value="5,5,5,0"/>
+			</Style>
+			
+			<Style x:Key="DataGridDocked" TargetType="DataGrid">				
+				<Setter Property="Margin" Value="5,5,5,5"/>
+			</Style>
+	</UserControl.Resources>
+	
+	<Grid x:Name="LayoutRoot" >
+		<Grid.Background>
+			<LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+				<GradientStop Color="#FFD6CDC7" Offset="0.6"/>
+				<GradientStop Color="#FF39291F" Offset="1"/>
+				<GradientStop Color="#FFD6CDC7" Offset="0.4"/>
+				<GradientStop Color="#FF39291F"/>
+			</LinearGradientBrush>
+		</Grid.Background>
+		
+		<Grid.RowDefinitions>			
+			<RowDefinition />
+			<RowDefinition Height="135"/>			
+		</Grid.RowDefinitions>
+		
+		<Grid Grid.Row="0">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition x:Name="cSenderAccount" Width="*"/>
+				<ColumnDefinition x:Name="cReceiverAccount" Width="200"/>
+				<ColumnDefinition x:Name="cIncomeStatement" Width="*"/>
+				<ColumnDefinition x:Name="cBalanceSheet" Width="130"/>
+			</Grid.ColumnDefinitions>
+			
+			<DockPanel Grid.Column="0" x:Name="dockSenderAccount" Margin="5,5,0,5">
+				<Label DockPanel.Dock="Top" x:Name="lblSenderAccount" Margin="0" 
+				VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Height="60">
+					<TextBlock x:Name="txbSenderAccount" TextAlignment="Center">Sender<LineBreak/>Account</TextBlock>
+				</Label>
+				<DataGrid DockPanel.Dock="Bottom,Left,Right" x:Name="dgSenderAccount" Margin="0" SelectionMode="Single" IsReadOnly="True" CanUserReorderColumns="False" 
+					CanUserResizeColumns="False" CanUserSortColumns="False" CanUserResizeRows="False" AlternatingRowBackground="#FFD6CDC7"
+					ColumnWidth="*" RowHeaderWidth="0" AutoGenerateColumns="False" ColumnHeaderStyle="{StaticResource WrappedColumnHeaderStyle}"
+					Style="{StaticResource DataGridDocked}"/>			
+			</DockPanel>
+			
+			<DockPanel Grid.Column="1" x:Name="dockReceiverAccount" Margin="5,5,0,5">
+				<Label DockPanel.Dock="Top" x:Name="lblReceiverAccount" Margin="0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Height="60">
+					<TextBlock x:Name="txbReceiverAccount" TextAlignment="Center">Receiver<LineBreak/>Account</TextBlock>
+				</Label>			
+				<DataGrid DockPanel.Dock="Bottom,Left,Right" x:Name="dgReceiverAccount" Margin="0" SelectionMode="Single" IsReadOnly="True" CanUserReorderColumns="False" 
+					CanUserResizeColumns="False" CanUserSortColumns="False" CanUserResizeRows="False" AlternatingRowBackground="#FFD6CDC7"
+					ColumnWidth="*" RowHeaderWidth="0" AutoGenerateColumns="False" ColumnHeaderStyle="{StaticResource WrappedColumnHeaderStyle}"
+					Style="{StaticResource DataGridDocked}"/>
+			</DockPanel>
+					
+			<DockPanel Grid.Column="2" x:Name="dockIncomeStatement" Margin="5,5,0,5">
+				<Label DockPanel.Dock="Top" x:Name="lblIncomeStatement" Margin="0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Height="60">
+					<TextBlock x:Name="txbIncomeStatement" TextAlignment="Center">Transfer<LineBreak/>Details</TextBlock>				
+				</Label>
+				<DataGrid DockPanel.Dock="Bottom,Left,Right" x:Name="dgIncomeStatement" Margin="0" SelectionMode="Single" IsReadOnly="True" CanUserReorderColumns="False" 
+					CanUserResizeColumns="False" CanUserSortColumns="False" CanUserResizeRows="False" AlternatingRowBackground="#FFD6CDC7"
+					ColumnWidth="*" RowHeaderWidth="0" AutoGenerateColumns="False" ColumnHeaderStyle="{StaticResource WrappedColumnHeaderStyle}"
+					Style="{StaticResource DataGridDocked}"/>
+			</DockPanel>			
+					
+			<DockPanel Grid.Column="3" x:Name="dockBalanceSheet" Margin="5">
+				<Label DockPanel.Dock="Top" x:Name="lblBalanceSheet" Margin="0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Height="60">
+					<TextBlock x:Name="txbBalanceSheet" TextAlignment="Center">Common<LineBreak/>Account</TextBlock>				
+				</Label>
+				<DataGrid DockPanel.Dock="Bottom,Left,Right" x:Name="dgBalanceSheet" Margin="0" SelectionMode="Single" IsReadOnly="True" CanUserReorderColumns="False" 
+					CanUserResizeColumns="False" CanUserSortColumns="False" CanUserResizeRows="False" AlternatingRowBackground="#FFD6CDC7"
+					ColumnWidth="*" RowHeaderWidth="0" AutoGenerateColumns="False" ColumnHeaderStyle="{StaticResource WrappedColumnHeaderStyle}"
+					Style="{StaticResource DataGridDocked}"/>
+			</DockPanel>
+			
+		</Grid>	
+		
+			
+		
+	</Grid>
+</UserControl>

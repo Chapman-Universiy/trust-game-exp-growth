@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TG_Jury_WPFcontrols
+</name>
+</assembly>
+<members>
+<member name="M:TG_Jury_WPFcontrols.MainControl.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:TG_Jury_WPFcontrols.MainControl">
+	<summary>
+MainControl
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,222 @@
+C:\Documents and Settings\kirchner\Local Settings\Application Data\Temporary Projects\Server\bin\Debug\Server.exe
+C:\Documents and Settings\kirchner\Local Settings\Application Data\Temporary Projects\Server\bin\Debug\Server.pdb
+C:\Documents and Settings\kirchner\Local Settings\Application Data\Temporary Projects\Server\bin\Debug\Server.xml
+C:\Documents and Settings\kirchner\Local Settings\Application Data\Temporary Projects\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kirchner\Local Settings\Application Data\Temporary Projects\Server\obj\x86\Debug\Server.Resources.resources
+C:\Documents and Settings\kirchner\Local Settings\Application Data\Temporary Projects\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\kirchner\Local Settings\Application Data\Temporary Projects\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\kirchner\Local Settings\Application Data\Temporary Projects\Server\obj\x86\Debug\Server.exe
+C:\Documents and Settings\kirchner\Local Settings\Application Data\Temporary Projects\Server\obj\x86\Debug\Server.xml
+C:\Documents and Settings\kirchner\Local Settings\Application Data\Temporary Projects\Server\obj\x86\Debug\Server.pdb
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\Server.exe
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\Server.xml
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\Server.pdb
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\Server.frmMain.resources
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\Server.Resources.resources
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server.exe
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server.pdb
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server.xml
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\Server.frmExchange.resources
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\Server.frmInstructions.resources
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\Server.frmSetup.resources
+C:\Documents and Settings\kirchner\My Documents\My Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\Server.frmSetup2.resources
+C:\Users\kirchner\Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\kirchner\Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\Server.xml
+C:\Users\kirchner\Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\kirchner\Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kirchner\Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\Server.frmExchange.resources
+C:\Users\kirchner\Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\Server.frmInstructions.resources
+C:\Users\kirchner\Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\Server.frmMain.resources
+C:\Users\kirchner\Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\Server.frmSetup.resources
+C:\Users\kirchner\Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\Server.frmSetup2.resources
+C:\Users\kirchner\Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\Server.Resources.resources
+C:\Users\kirchner\Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kirchner\Dropbox\VB.Net 2010\Template\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kirchner\Dropbox\VB.Net 2010\Template\Server.exe
+C:\Users\kirchner\Dropbox\VB.Net 2010\Template\Server.pdb
+C:\Users\kirchner\Dropbox\VB.Net 2010\Template\Server.xml
+\\CONDOSERVER1\userdata\domenicdonato\My Documents\Visual Studio 2010\Projects\Template\Server\Server\obj\x86\Debug\Server.exe
+\\CONDOSERVER1\userdata\domenicdonato\My Documents\Visual Studio 2010\Projects\Template\Server\Server\obj\x86\Debug\Server.xml
+\\CONDOSERVER1\userdata\domenicdonato\My Documents\Visual Studio 2010\Projects\Template\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\domenicdonato\Dropbox\Work\VB Template\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\domenicdonato\Dropbox\Work\VB Template\Server\Server\obj\x86\Debug\Server.xml
+C:\Users\domenicdonato\Dropbox\Work\VB Template\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\domenicdonato\Dropbox\Work\VB Template\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\domenicdonato\Dropbox\Work\VB Template\Server\Server\obj\x86\Debug\Server.frmExchange.resources
+C:\Users\domenicdonato\Dropbox\Work\VB Template\Server\Server\obj\x86\Debug\Server.frmInstructions.resources
+C:\Users\domenicdonato\Dropbox\Work\VB Template\Server\Server\obj\x86\Debug\Server.frmMain.resources
+C:\Users\domenicdonato\Dropbox\Work\VB Template\Server\Server\obj\x86\Debug\Server.frmSetup.resources
+C:\Users\domenicdonato\Dropbox\Work\VB Template\Server\Server\obj\x86\Debug\Server.Resources.resources
+C:\Users\domenicdonato\Dropbox\Work\VB Template\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\domenicdonato\Dropbox\Work\VB Template\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\domenicdonato\Dropbox\Work\VB Template\Server.exe
+C:\Users\domenicdonato\Dropbox\Work\VB Template\Server.pdb
+C:\Users\domenicdonato\Dropbox\Work\VB Template\Server.xml
+C:\Users\domenicdonato\Dropbox\Work\VB Template\Server\Server\obj\x86\Debug\Server.frmParameters.resources
+C:\Users\domenicdonato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\domenicdonato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.xml
+C:\Users\domenicdonato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\domenicdonato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\domenicdonato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmExchange.resources
+C:\Users\domenicdonato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmInstructions.resources
+C:\Users\domenicdonato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmMain.resources
+C:\Users\domenicdonato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmSetup.resources
+C:\Users\domenicdonato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmParameters.resources
+C:\Users\domenicdonato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.Resources.resources
+C:\Users\domenicdonato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\domenicdonato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\domenicdonato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server.exe
+C:\Users\domenicdonato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server.pdb
+C:\Users\domenicdonato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server.xml
+C:\Users\donato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\donato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.xml
+C:\Users\donato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\donato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\donato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmExchange.resources
+C:\Users\donato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmInstructions.resources
+C:\Users\donato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmMain.resources
+C:\Users\donato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmSetup.resources
+C:\Users\donato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmParameters.resources
+C:\Users\donato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.Resources.resources
+C:\Users\donato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\donato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\donato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server.exe
+C:\Users\donato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server.pdb
+C:\Users\donato\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server.xml
+C:\Users\Domenic Work\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\Domenic Work\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.xml
+C:\Users\Domenic Work\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\Domenic Work\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Domenic Work\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmExchange.resources
+C:\Users\Domenic Work\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmInstructions.resources
+C:\Users\Domenic Work\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmMain.resources
+C:\Users\Domenic Work\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmSetup.resources
+C:\Users\Domenic Work\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmParameters.resources
+C:\Users\Domenic Work\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.Resources.resources
+C:\Users\Domenic Work\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Domenic Work\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Domenic Work\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server.exe
+C:\Users\Domenic Work\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server.pdb
+C:\Users\Domenic Work\Dropbox\Work\Projects\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server.xml
+C:\Users\Domenic Work\Dropbox\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\Domenic Work\Dropbox\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.xml
+C:\Users\Domenic Work\Dropbox\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\Domenic Work\Dropbox\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Domenic Work\Dropbox\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmExchange.resources
+C:\Users\Domenic Work\Dropbox\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmInstructions.resources
+C:\Users\Domenic Work\Dropbox\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmMain.resources
+C:\Users\Domenic Work\Dropbox\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmSetup.resources
+C:\Users\Domenic Work\Dropbox\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmParameters.resources
+C:\Users\Domenic Work\Dropbox\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.Resources.resources
+C:\Users\Domenic Work\Dropbox\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Domenic Work\Dropbox\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Domenic Work\Dropbox\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server.exe
+C:\Users\Domenic Work\Dropbox\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server.pdb
+C:\Users\Domenic Work\Dropbox\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server.xml
+C:\Users\domenicdonato\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\domenicdonato\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.xml
+C:\Users\domenicdonato\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\domenicdonato\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\domenicdonato\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmExchange.resources
+C:\Users\domenicdonato\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmInstructions.resources
+C:\Users\domenicdonato\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmMain.resources
+C:\Users\domenicdonato\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmSetup.resources
+C:\Users\domenicdonato\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmParameters.resources
+C:\Users\domenicdonato\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.Resources.resources
+C:\Users\domenicdonato\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\domenicdonato\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\domenicdonato\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server.exe
+C:\Users\domenicdonato\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server.pdb
+C:\Users\domenicdonato\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server.xml
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\WPF Assets\Simple Styles.baml
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\WPF Assets\WPFProgressBar.baml
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\WPF Assets\WPFProgressBar.g.vb
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server_Content.g.vb
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server_MarkupCompile.cache
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.g.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmExchange.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmInstructions.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmMain.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmSetup.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.frmParameters.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.Resources.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.xml
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server.exe
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server.pdb
+C:\Users\Domenic Work\SugarSync\Work\People\Corgnet, Brice\Multi-agent Participative Decision Making\MPDM\Server.xml
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server\Server\obj\x86\Debug\WPF Assets\GroupInfoUC.baml
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server\Server\obj\x86\Debug\WPF Assets\Simple Styles.baml
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server\Server\obj\x86\Debug\WPF Assets\WPFProgressBar.baml
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server\Server\obj\x86\Debug\WPF Assets\GroupInfoUC.g.vb
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server\Server\obj\x86\Debug\WPF Assets\WPFProgressBar.g.vb
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server\Server\obj\x86\Debug\Server_Content.g.vb
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server\Server\obj\x86\Debug\Server_MarkupCompile.cache
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server\Server\obj\x86\Debug\Server.g.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server\Server\obj\x86\Debug\Server.frmInfoTable.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server\Server\obj\x86\Debug\Server.frmInstructions.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server\Server\obj\x86\Debug\Server.frmMain.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server\Server\obj\x86\Debug\Server.frmSetup.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server\Server\obj\x86\Debug\Server.Resources.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server\Server\obj\x86\Debug\Server.xml
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server.exe
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server.pdb
+C:\Users\Domenic Work\SugarSync\Work\People\Rubin, Jared\TrustGame_Jury\Server.xml
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Jury\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Jury\Server\Server\obj\x86\Debug\Server.xml
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Jury\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.xml
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server\Server\obj\x86\Debug\WPF Assets\GroupInfoUC.baml
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server\Server\obj\x86\Debug\WPF Assets\Simple Styles.baml
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server\Server\obj\x86\Debug\WPF Assets\WPFProgressBar.baml
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server\Server\obj\x86\Debug\WPF Assets\GroupInfoUC.g.vb
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server\Server\obj\x86\Debug\WPF Assets\WPFProgressBar.g.vb
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server_Content.g.vb
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server_MarkupCompile.cache
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.g.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.frmInfoTable.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.frmInstructions.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.frmMain.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.frmSetup.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.Resources.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server.exe
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server.pdb
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Tim\TrustGame_Accounting\Server.xml
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.xml
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server\Server\obj\x86\Debug\WPF Assets\GroupInfoUC.baml
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server\Server\obj\x86\Debug\WPF Assets\Simple Styles.baml
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server\Server\obj\x86\Debug\WPF Assets\WPFProgressBar.baml
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server\Server\obj\x86\Debug\WPF Assets\GroupInfoUC.g.vb
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server\Server\obj\x86\Debug\WPF Assets\WPFProgressBar.g.vb
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server_Content.g.vb
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server_MarkupCompile.cache
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.g.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.frmInfoTable.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.frmInstructions.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.frmMain.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.frmSetup.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.Resources.resources
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server.exe
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server.pdb
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server.xml
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.vbprojResolveAssemblyReference.cache
+C:\Users\Domenic Work\SugarSync\Work\People\Shields, Timothy\TrustGame_Accounting\Server\Server\obj\x86\Debug\Server.vbproj.GenerateResource.Cache
